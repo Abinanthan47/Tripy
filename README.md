@@ -15,7 +15,7 @@ TravelApp is a modern, user-friendly travel application designed to simplify you
 ## Setup and Installation
 
 1. **Clone the repository**
-   ```git clone https://github.com/Abinanthan47/tripy.git```
+   ```git clone https://github.com/Abinanthan47/Tripy.git```
    
    ```cd Tripy```
    
