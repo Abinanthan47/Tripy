@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "bg-secondary-100"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "expo-font": {
+      "fonts": ["./assets/fonts/Poppins-Medium.ttf"]
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
